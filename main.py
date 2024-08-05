@@ -8,7 +8,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter # for chunkin
 from langchain.vectorstores import FAISS  # vector databse
 from langchain.prompts import PromptTemplate # we are going to send some prompt to our llm models.
 from langchain.chains import RetrievalQA 
-from dotenv import load_dotenv
+from dotenv import load_dotenv # if if have any secrete thing which we don't want to show for that we use this.
 
 load_dotenv()
 
@@ -66,7 +66,7 @@ def get_vector_store(docs):
 
 
 def get_llm():
-    llm = Bedrock(model_id = "mistral.mistral-7b-instruct-v0:2", client = bedrock)
+    llm = Bedrock(model_id = "meta.llama3-70b-instruct-v1:0", client = bedrock)
     return llm
 
 
