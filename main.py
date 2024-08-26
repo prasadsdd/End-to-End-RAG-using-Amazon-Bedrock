@@ -32,7 +32,7 @@ Question: {question}
 Assistant:"""
 
 
-#Bedrock client
+#Bedrock client (bedrock chya services use karaychya aahet mhanun he use karto)
 bedrock = boto3.client(
     service_name = "bedrock-runtime", 
     region_name = region_name,
