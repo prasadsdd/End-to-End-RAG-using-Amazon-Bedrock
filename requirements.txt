@@ -5,3 +5,4 @@ faiss-cpu
 boto3
 python-dotenv
 langchain-community
+streamlit_lottie
