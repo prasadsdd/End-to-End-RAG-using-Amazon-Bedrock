@@ -30,3 +30,9 @@ pip install -r requirements.txt
 streamlit run main.py
 
 ```
+
+###  Creating Docker Image
+```bash
+docker build -t rag-for-chat . (rag-for-chat is the application name u can put any name you want)
+```
+
