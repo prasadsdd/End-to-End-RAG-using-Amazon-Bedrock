@@ -103,7 +103,7 @@ def get_vector_store(docs):
     st.success("Vectors stored successfully")
 
 def get_llm():
-    return Bedrock(model_id="meta.llama3-70b-instruct-v1:0", client=bedrock)
+    return Bedrock(model_id="ai21.jamba-instruct-v1:0", client=bedrock)
 
 def get_llm_response(llm, vectorstore_faiss, query):
     PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
