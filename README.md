@@ -14,7 +14,14 @@ This flowchart illustrates the **end-to-end process of RAG** in the application,
 
 ![Image_Alt](https://github.com/prasadsdd/End-to-End-RAG-using-Amazon-Bedrock/blob/e3084aa84721e599ccc7276d59be0774771e7fda/Screenshot%20(11).png)
 ---
+## 💻 User Interface of the RAG Application
 
+The user interface enables easy document upload and question-answering functionality. Users can upload a PDF file, ask questions related to its content, and receive contextual answers based on the embedded document data.
+
+![Image_Alt](https://github.com/prasadsdd/End-to-End-RAG-using-Amazon-Bedrock/blob/e3084aa84721e599ccc7276d59be0774771e7fda/Screenshot%20(11).png)
+
+
+---
 ## 📖 What is RAG?
 
 **Retrieval-Augmented Generation (RAG)** is a powerful method combining **retrieval** and **generation** for dynamic, fact-based AI responses. It fetches relevant information from a database (or knowledge base) and uses it to enhance text generation, making your application more **accurate** and **context-aware**.
