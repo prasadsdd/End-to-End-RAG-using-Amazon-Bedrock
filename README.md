@@ -1,4 +1,4 @@
-
+![Image_Alt](Screenshot (11).png)
 ---
 
 # 🚀 End-to-End Retrieval-Augmented Generation (RAG) with Amazon Bedrock
