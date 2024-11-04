@@ -5,6 +5,8 @@
 
 Build your own RAG application from scratch using **Amazon Bedrock**! This guide will walk you through setting up the environment, running the application, and containerizing it with Docker.
 
+
+
 ---
 
 ## 📖 What is RAG?
