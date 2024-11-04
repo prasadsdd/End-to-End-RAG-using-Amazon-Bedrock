@@ -19,7 +19,7 @@ This flowchart illustrates the **end-to-end process of RAG** in the application,
 
 The user interface enables easy document upload and question-answering functionality. Users can upload a PDF file, ask questions related to its content, and receive contextual answers based on the embedded document data.
 
-![Image_Alt]()
+![Image_Alt](https://github.com/prasadsdd/End-to-End-RAG-using-Amazon-Bedrock/blob/c66f39a132d090033594889348e1e54eae214185/Screenshot%20(151).png)
 
 
 ---
