@@ -1,12 +1,18 @@
-![Image_Alt](https://github.com/prasadsdd/End-to-End-RAG-using-Amazon-Bedrock/blob/e3084aa84721e599ccc7276d59be0774771e7fda/Screenshot%20(11).png)
+
 ---
 
 # 🚀 End-to-End Retrieval-Augmented Generation (RAG) with Amazon Bedrock
 
 Build your own RAG application from scratch using **Amazon Bedrock**! This guide will walk you through setting up the environment, running the application, and containerizing it with Docker.
 
+---
 
 
+## 🔄 RAG Operation Flow
+
+This flowchart illustrates the **end-to-end process of RAG** in the application, showing the steps from document ingestion by the admin to user query handling. The process includes chunking, vectorizing, and storing document embeddings, as well as querying for relevant information and generating responses.
+
+![Image_Alt](https://github.com/prasadsdd/End-to-End-RAG-using-Amazon-Bedrock/blob/e3084aa84721e599ccc7276d59be0774771e7fda/Screenshot%20(11).png)
 ---
 
 ## 📖 What is RAG?
