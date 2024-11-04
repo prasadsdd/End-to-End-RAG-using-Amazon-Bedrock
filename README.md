@@ -1,4 +1,4 @@
-![Image_Alt]([Screenshot (11).png](https://github.com/prasadsdd/End-to-End-RAG-using-Amazon-Bedrock/blob/e3084aa84721e599ccc7276d59be0774771e7fda/Screenshot%20(11).png))
+![Image_Alt](https://github.com/prasadsdd/End-to-End-RAG-using-Amazon-Bedrock/blob/e3084aa84721e599ccc7276d59be0774771e7fda/Screenshot%20(11).png)
 ---
 
 # 🚀 End-to-End Retrieval-Augmented Generation (RAG) with Amazon Bedrock
